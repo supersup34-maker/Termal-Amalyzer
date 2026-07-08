@@ -1,0 +1,6 @@
+{
+  "name": "Electrical Hotspot Analyzer",
+  "description": "ระบบวิเคราะห์รูปภาพจุดร้อนบนระบบไฟฟ้า (Thermal Imaging) เพื่อตรวจจับ คาดการณ์ความเสี่ยง และแนะนำวิธีการบำรุงรักษาอุปกรณ์ไฟฟ้าอย่างปลอดภัยด้วย AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
